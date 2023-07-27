@@ -1,0 +1,10 @@
+//Sorting
+//program to sort an array using bubble sort and print as instructed
+
+#include <bits/stdc++.h>
+using namespace std;
+
+string ltrim(const string &);
+string rtrim(const string &);
+vector<string> split(const string &);
+
