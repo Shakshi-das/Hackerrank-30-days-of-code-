@@ -1,4 +1,5 @@
-//abstraction program
+//abstraction program 
+
 //program to abstract display() method in Book class
 
 class MyBook : public Book {
