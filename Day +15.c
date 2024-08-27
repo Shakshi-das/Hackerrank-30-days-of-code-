@@ -3,7 +3,8 @@
 
 Node* insert(Node *head,int data)
       {
-          //Complete this method
+          //Complete this method 
+            
           if (head == NULL) head = new Node(data);
         else {
             Node *curr = head;
